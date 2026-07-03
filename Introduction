@@ -1,0 +1,25 @@
+# Chapter 1: Introduction
+
+Before writing a single SQL query, you should first explore and understand the database you're working with.
+
+One of the most common mistakes beginners make is jumping straight into writing queries without understanding the relationships between tables, the available columns, or the purpose of the data. Spending a few minutes exploring the database can save hours of debugging later.
+
+Remember:
+
+> **Think before you code.**
+
+A piece of advice from one of my professors has stayed with me throughout my studies:
+
+> **"If you understand first, think second, and write third, you'll rarely have to rewrite your code."**
+
+This principle applies not only to SQL but to programming, data analysis, and software engineering in general.
+
+In this chapter, we will learn how to:
+
+- Explore the available databases
+- Inspect tables and their columns
+- Understand primary keys and relationships
+- Identify the purpose of each table
+- Build a mental model of the database before writing queries
+
+A good SQL developer doesn't just write queries—they understand the data first.
