@@ -31,7 +31,7 @@ SHOW TABLES;
 DESCRIBE customers;
 
 
--- you can write sql commands in small letters or capital letters but dont mix them (SHOW == show but not ShoW)
+-- you can write sql commands in small letters or capital letters but dont mix them (SHOW == show == ShoW)
 
 
 /* The databse contains of the following tables:
