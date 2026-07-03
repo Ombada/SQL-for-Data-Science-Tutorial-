@@ -1,10 +1,10 @@
--- Introduction   (This is an example for single line comment)
+-- Introduction   (This is an example for single line comment in SQL)
 
 /* This is an example for multiple lines comments
 
 Comments make your code easier to share with colleages, but not only that 
 
-they also help you with trouble shooting or when you try to modify your code 
+they also help you with troubleshooting or when you try to modify your code 
 
 a couple of years later */
 
