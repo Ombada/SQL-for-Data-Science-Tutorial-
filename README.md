@@ -15,24 +15,6 @@ The exercises cover essential SQL concepts used in data analysis and database ma
 - Sales and revenue analysis
 - Customer order analysis
 
-## Database Tables
-
-- **customers** – Customer information such as name, address, city, state, phone number, and birth date.
-- **orders** – Order details including customer, order date, shipping information, and status.
-- **order_items** – Products within each order, including quantity and unit price.
-
-## Example Queries
-
-Some of the analyses included in this repository are:
-
-- Finding customers with missing phone numbers
-- Counting customers by state
-- Calculating total revenue
-- Computing the total value of each order
-- Identifying customers with the most orders
-- Finding the highest-value orders
-- Listing customers who have never placed an order
-- Joining customer and order information to generate business reports
 
 ## Purpose
 
