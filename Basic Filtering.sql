@@ -58,3 +58,4 @@ WHERE first_name LIKE 'B%' AND state = 'MA';
 SELECT *
 FROM orders
 WHERE customer_id = 5;
+
