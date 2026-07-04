@@ -48,8 +48,13 @@ FROM customers
 WHERE birth_date >= '1980-01-01' AND birth_date <= '2000-12-31';
 
 
-
 -- 6. Retrieve customers whose first name starts with B and who live in MA.
 SELECT *
 FROM customers
 WHERE first_name LIKE 'B%' AND state = 'MA';
+
+
+-- 7. Display all orders placed by customer 5
+SELECT *
+FROM orders
+WHERE customer_id = 5;
