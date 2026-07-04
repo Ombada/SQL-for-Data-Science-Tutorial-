@@ -1,20 +1,20 @@
 -- These are the kinds of queries analysts write all the time.
 
 -- 1. Top 10 orders by value
-select order_id, sum(quantity * unit_price) as total_price
-from order_items 
-group by order_id
-order by total_price desc
-limit 10;
+SELECT order_id, sum(quantity * unit_price) AS total_price
+FROM order_items 
+GROUP BY order_id
+ORDER BY total_price DESC
+LIMIT 10;
 
 -- 2. Number of products sold
-select sum(quantity) as products_sold
-from order_items;
+SELECT sum(quantity) AS products_sold
+FROM order_items;
 
 -- 3. Revenue per product
-select product_id, sum(quantity * unit_price) as total_price
-from order_items 
-group by product_id;
+SELECT product_id, sum(quantity * unit_price) as total_price
+FROM order_items 
+GROUP BY product_id;
 
 
 -- 4. Which customer spent the most?
