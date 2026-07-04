@@ -11,6 +11,7 @@ The exercises cover essential SQL concepts used in data analysis and database ma
 - Sorting results using `ORDER BY`, `ASC`, `DESC`
 - Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
 - Grouping data with `GROUP BY`
+- Filtering grouped data with `Having`
 - Joining multiple tables using `INNER JOIN` and `LEFT JOIN`
 - Sales and revenue analysis
 - Customer order analysis
