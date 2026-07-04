@@ -1,4 +1,4 @@
--- Ch 4: Aggregation.
+-- Ch 3: Aggregation.
 
 /*
 				ORDER BY Vs GROUP BY
