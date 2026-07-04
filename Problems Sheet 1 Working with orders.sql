@@ -1,6 +1,6 @@
 -- 1. Display all order items with the total_price
 SELECT order_id, product_id, quantity, unit_price,
-        (quantity*unit_price) as total_price
+        (quantity*unit_price) AS total_price
 FROM order_items;
 
 -- 2. Find the total value of each order.
@@ -12,7 +12,7 @@ GROUP BY order_id;
 SELECT order_id, SUM(quantity * unit_price) AS order_total
 FROM order_items
 GROUP BY order_id 
-order by order_total desc
+ORDER BY order_total DESC
 LIMIT 1;
 
 -- 4. Find the average order value
