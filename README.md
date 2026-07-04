@@ -7,12 +7,13 @@ The exercises cover essential SQL concepts used in data analysis and database ma
 ## Topics Covered
 
 - Basic `SELECT` statements
-- Filtering data with `WHERE` ,`IN`, `AND`, `OR`, `LIKE`, `BETWEEN`, `IS NULL`
-- Sorting results using `ORDER BY`, `ASC`, `DESC`
+- Filtering data with `WHERE` ,`IN`, `AND`, `OR`, `LIKE`, `BETWEEN` and `IS NULL`
+- Sorting results using `ORDER BY`, `ASC` and `DESC`
 - Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
 - Grouping data with `GROUP BY`
 - Filtering grouped data with `Having`
-- Joining multiple tables using `INNER JOIN` and `LEFT JOIN`
+- Joining multiple tables using `INNER JOIN`  and `LEFT JOIN`
+- Multiple joins and self join
 - Sales and revenue analysis
 - Customer order analysis
 
