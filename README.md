@@ -16,6 +16,10 @@ The exercises cover essential SQL concepts used in data analysis and database ma
 - Multiple joins and self join
 - Sales and revenue analysis
 - Customer order analysis
+- Scalar subqueries that return a single value
+- Multi-row subqueries with `IN`, `NOT IN`, `ANY`, and `ALL`
+- Use `EXISTS` and `NOT EXISTS` to check for matching rows efficiently
+- Decide when a subquery is a better solution than a `JOIN`, and vice versa
 
 
 ## Purpose
