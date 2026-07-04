@@ -1,4 +1,4 @@
--- Ch5: HAVING 
+-- Ch4: HAVING 
 
 /* HAVING is used to filter groups after GROUP BY, 
 just as WHERE is used to filter individual rows before grouping.*/ 
