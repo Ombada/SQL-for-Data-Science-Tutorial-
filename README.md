@@ -20,7 +20,9 @@ The exercises cover essential SQL concepts used in data analysis and database ma
 - Multi-row subqueries with `IN`, `NOT IN`, `ANY`, and `ALL`
 - Use `EXISTS` and `NOT EXISTS` to check for matching rows efficiently
 - Decide when a subquery is a better solution than a `JOIN`, and vice versa
-- Advanced SQL `CASE`,`IF`,`IFNULL` and `COALESCE` 
+- Advanced SQL `CASE`,`IF`,`IFNULL` and `COALESCE`
+- Mathematical functions `ROUND`, `CEILING`, `FLOOR`and `ABS`
+- String Functions
 
 
 ## Purpose
