@@ -24,8 +24,9 @@ The exercises cover essential SQL concepts used in data analysis and database ma
 - Mathematical functions `ROUND`, `CEILING`, `FLOOR`and `ABS`
 - String functions `UPPER`, `LOWER`, `CONCAT`, `LENGTH`, `SUBSTRING`, `REPLACE`, and `TRIM`
 - Date functions `CURDATE()`, `NOW()`, and `TIMESTAMPDIFF`.
+- Common Table Expressions (CTEs)
 
 
 ## Purpose
 
-This repository serves as a record of my SQL learning journey and a reference for common SQL queries and business reporting tasks. I plan to add more advanced topics such as  window functions, Common Table Expressions (CTEs), stored procedures, triggers, and database optimization.
+This repository serves as a record of my SQL learning journey and a reference for common SQL queries and business reporting tasks. I plan to add more advanced topics such as  window functions, stored procedures, triggers, and database optimization.
