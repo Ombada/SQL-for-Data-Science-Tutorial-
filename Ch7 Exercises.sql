@@ -163,6 +163,6 @@ ORDER BY num_orders DESC
 LIMIT 1;
 
 -- HOWEVER THIS IS NOT CORRECT 
--- it will only retrn one month, there could be the case that many months have the exact maximum number of orders 
+-- it will only retrn one month, there could be the case that multiple months have the exact maximum number of orders 
 -- and the last solution will fail to retrieve all of them  
 -- WE WILL SIMPLIFY THE CORRECT SOLUTION IN THE NEXT CHAPTER USING Common Table Expressions (CTEs)
