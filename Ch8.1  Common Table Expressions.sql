@@ -113,5 +113,5 @@ FROM monthly_orders
 WHERE num_orders = (SELECT max_m_o FROM max_month_orders);
 
 
--- See how easy you can understand the second query 
+-- See how easy you can understand the second solutions since there is no nested subquries involved  
 -- its more readable and interpretable 
